@@ -1,0 +1,63 @@
+[p LITE_MODE AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F886 ]
+[d frameptr 6 ]
+"10 C:\Program Files{2}\Microchip\xc8\v2.00\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files{2}\Microchip\xc8\v2.00\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files{2}\Microchip\xc8\v2.00\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"70 D:\khing\Documents\16f886_metrics\main.c
+[v _setup setup `(v  1 e 1 0 ]
+"88
+[v _main main `(v  1 e 1 0 ]
+"59 C:\Program Files{2}\Microchip\xc8\v2.00\pic\include\pic16f886.h
+[v _TMR0 TMR0 `VEuc  1 e 1 @1 ]
+"228
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"1337
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"1399
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1461
+[v _TRISC TRISC `VEuc  1 e 1 @135 ]
+"3229
+[v _ANSEL ANSEL `VEuc  1 e 1 @392 ]
+"3711
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"3864
+[v _PS0 PS0 `VEb  1 e 0 @1032 ]
+"3867
+[v _PS1 PS1 `VEb  1 e 0 @1033 ]
+"3870
+[v _PS2 PS2 `VEb  1 e 0 @1034 ]
+"3873
+[v _PSA PSA `VEb  1 e 0 @1035 ]
+"4098
+[v _T0CS T0CS `VEb  1 e 0 @1037 ]
+"4101
+[v _T0IE T0IE `VEb  1 e 0 @93 ]
+"4107
+[v _T0SE T0SE `VEb  1 e 0 @1036 ]
+"21 D:\khing\Documents\16f886_metrics\main.c
+[v _Time Time `i  1 e 2 0 ]
+"22
+[v _SINETABLE SINETABLE `DC[360]uc  1 e 360 0 ]
+"69
+[v _step step `[3]i  1 e 6 0 ]
+"88
+[v _main main `(v  1 e 1 0 ]
+{
+"98
+[v main@o o `i  1 a 2 3 ]
+"124
+} 0
+"70
+[v _setup setup `(v  1 e 1 0 ]
+{
+"87
+} 0
